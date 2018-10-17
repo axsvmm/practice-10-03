@@ -1,0 +1,23 @@
+
+.rain-cloud .cloud{
+
+	fill: #ced4d9;
+
+}
+
+
+.rain-cloud .rain{
+	
+	fill: rgba(0,0,0,0);
+	
+	/*fill: #cbe7f5;*/
+
+}
+
+
+.rain-cloud:hover .rain {
+	
+	fill:#cbe7f5;
+
+}
+     
